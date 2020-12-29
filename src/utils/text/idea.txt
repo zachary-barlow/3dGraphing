@@ -1,0 +1,4 @@
+- 3d graph (bar to start)
+- input data then organize data into a table
+  - after have the possibility to update on the site to make sure it meets spec
+- 
